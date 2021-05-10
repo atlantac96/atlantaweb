@@ -1,0 +1,5 @@
+* __Chakraborty, A.__, Chandru, V. & Rao, M.R. A linear programming primer: from Fourier to Karmarkar. Ann Oper Res 287, 593–616 (2020). https://doi.org/10.1007/s10479-019-03186-2
+
+* __Chakraborty, A.__, Chandru, V. A Robust and Non-parametric Model for Prediction of Dengue Incidence. J Indian Inst Sci 100, 893–899 (2020). https://doi.org/10.1007/s41745-020-00202-4
+
+* Working papers have not been listed.

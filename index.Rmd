@@ -1,5 +1,16 @@
 ---
-title: "Personal Website"
+title: "Welcome to my home page!"
 ---
 
-Hello, World!
+
+
+I am a third year PhD student in the [Institute of Operations Research and Analytics](https://iora.nus.edu.sg/)  at the [National University of Singapore](https://www.nus.edu.sg/).
+
+My area of research is statistical inference for models with expensive or intractable likelihoods and its applications in various disciplines. 
+
+Say hello at: 
+
+
+* Mailing address: Innovation 4.0, 3 Research Link, #04-01, Singapore 117602
+* e-mail   : atlanta [at] u.nus.edu
+

@@ -1,9 +1,19 @@
 name: "personal-website"
 output_dir: "."
 navbar:
-  title: "Personal Website"
+   title: "Atlanta Chakraborty"
   left:
     - text: "Home"
       href: index.html
+    - text: "Education"
+      href: edu.html
+    - text: "Research"
+      href: res.html
+    - text: "Publications"
+      href: pub.html
+    - text: "Teaching"
+      href: teach.html
     - text: "About Me"
       href: about.html
+    - text: "CV"
+      href: cv.html

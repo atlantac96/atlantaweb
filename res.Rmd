@@ -1,0 +1,9 @@
+* __Simulation-based inference for models with expensive or intractable likelihoods__
+
+* __Application of Bayesian statistics, specifically Approximate Bayesian Computation (ABC) and synthetic likelihood (SL) in applied disciplines__
+
+* __Model misspecification in simulation-based inference__ 
+  
+* __Computational Bayesian statistics__
+
+* __Computational Epidemiology__

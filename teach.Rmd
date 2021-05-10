@@ -1,0 +1,16 @@
+---
+title: "Teaching Assistant"
+---
+* ST5224: Advanced Statistical Theory-II, 
+Sem 2, AY 2020-2021, NUS.
+* DBA 4711/DSC 4217: Advanced Analytics with R, 
+Sem 2, AY 2020-2021, NUS.
+* DBA 3803/DSC3216: Predictive Analytics in Business,
+Sem 1, AY 2020-2021, NUS.
+* DSC52104: [Introduction to Network Science and Analytics](https://bschool.nus.edu.sg/bba/wp-content/uploads/sites/37/2019/06/DSC5104-Introduction-to-Network-Science-Analytics-S2AY1819.pdf), 
+Sem 2, AY 2019- 2020, NUS.
+* ST5224: Advanced Statistical Theory-II, 
+Sem 2, AY 2019-2020, NUS.
+* ST5215: [Advanced Statistical Theory-I](https://blog.nus.edu.sg/zhenhua/teaching/st5215-ay2019-2020/), 
+Sem 1, AY 2019-2020, NUS.
+* BE209: [Digital Epidemiology](https://www.healthheatmapindia.in/digital-epidemiology/), IISc
